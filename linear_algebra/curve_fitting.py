@@ -5,7 +5,7 @@ def set_objective(x, a, b):
     #To-Do set the objective equation
     return a*x+b
 
-def get_result( x, y):
+def get_result(x, y):
     """Return optimal values for a and b for the equation y = a*x+b """
 
     # curve fit

@@ -5,7 +5,7 @@ def convert_to_floats(rows):
     """convert a list of string tuples to a  ndarray of floats"""
 
     # create a a result list ( later to be converted to np array matrix)
-    result = []
+    result = [ ]
     # To-Do Loop through the list and convert row by row
     # a loop should be written 
     for row in rows:
